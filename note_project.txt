@@ -1,0 +1,12 @@
+add with validation
+show
+refresh when data added into server
+edit
+sweet alert
+
+
+
+
+
+
+======== add vendor and modules folder from UMnpmAdminlte_vue=============
